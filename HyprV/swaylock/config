@@ -1,0 +1,28 @@
+# Disable username and password field
+--indicator-idle-visible
+
+# Set the background color (optional, adjust as needed)
+--color=282828
+
+# Ring and inside color settings (optional, adjust as needed)
+--ring-color=ffffff
+--inside-color=282828
+--ring-ver-color=00ff00
+--inside-ver-color=282828
+--ring-wrong-color=ff0000
+--inside-wrong-color=282828
+
+# Indicator colors (optional, adjust as needed)
+--key-hl-color=00ff00
+--bs-hl-color=ff0000
+
+# Text colors for different states (optional, adjust as needed)
+--text-color=ffffff
+--text-clear-color=00ff00
+--text-ver-color=00ff00
+--text-wrong-color=ff0000
+
+# Indicator line width and radius (optional, adjust as needed)
+--indicator-radius=100
+--indicator-thickness=10
+
